@@ -10,4 +10,4 @@ Feel free to connect with me via:
 - Email: cmagoo01@villanova.edu
 
 Check out my personal website: 
-<a href = "https://calebmagoola.github.io/PersonalWebsiteCalebMagoola/" target = "_blank">HERE</a>
+<a href = "https://calebmagoola.github.io/PersonalWebsiteCalebMagoola/" target = _blank>HERE</a>
