@@ -1,4 +1,4 @@
-# Hi!✌️
+# HI!✌️
 
 Thanks for visiting my Github page. I'm Caleb Magoola, a Rising Junior at Villanova University majoring in Computer Science with minors in History and Geography. In addition to my studies I am a Teaching Assistant for Algorithms and Data Structures I, a Tutor for CS, Geography, and French, and a 2nd year Resident Assistant for Freshmen students.
 
